@@ -1,13 +1,13 @@
-Flexbox Froggy
+Flexbox Froggy - No Hints
 =======
 
-Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](http://flexboxfroggy.com).
+Flexbox Froggy - No Hints is a game for learning CSS flexbox. Check it out at [christianrubiales.com/flexboxfroggy-no-hints/](http://christianrubiales.com/flexboxfroggy-no-hints/).
 
 Read [this blog post](http://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
 
 ![FontCDN screenshot](./images/screenshot.png)
 
-## Author
+## Original Author
 
 Thomas Park
 
